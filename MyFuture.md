@@ -15,5 +15,5 @@ layout: default
 - [x] Go to a home football game
 - [ ] Explore **all** of campus
 - [ ] Find an internship
-- [ ] Begin my life as an adult
+ [ ] Begin my life as an adult
 
