@@ -1,9 +1,10 @@
 ---
-title: "Future"
+title: "My Future"
 permalink: /
 layout: default
 ---
 
-[HOME](./index.md)
 
-#Careers
+[Return to HOME](https://mkim74.github.io/AboutMe/)
+
+
